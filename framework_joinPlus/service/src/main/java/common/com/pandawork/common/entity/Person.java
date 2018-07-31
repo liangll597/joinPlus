@@ -8,8 +8,8 @@ import javax.persistence.Id;
 import javax.persistence.Table;
 
 /**
- * @Author:liangll
- * @Description: person实体 ....
+ * @Author:liangll lianglltest
+ * @Description: person实体
  * @Date: 15:39 2018/7/28
  */
 @Table(name = "t_person")
